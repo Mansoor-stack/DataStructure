@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="Mansoor-stack" id="62c2cb3a-e949-45f5-8620-4d7d0e7e12f8">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
