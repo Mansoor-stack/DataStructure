@@ -10,7 +10,6 @@ package com.learning.DSA.ArraysPractice;
 public class Array1 {
 
     public static void main(String[] args) {
-
         int[] myArray = new int[7];
 
         myArray[0] = 2;
